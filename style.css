@@ -1,0 +1,71 @@
+body {
+  width: 200vh;
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+}
+
+.menu {
+  font-size: 20px;
+  display: flex;
+  margin-top: -18px;
+}
+a {
+  text-decoration: none;
+}
+.Diachi a {
+  margin-left: 88%;
+  padding-right: 20px;
+  color: yellow;
+}
+.menu img {
+  width: 100px;
+  height: 100px;
+  margin-left: 20px;
+}
+.menu a {
+  color: black;
+}
+.menu a:hover {
+  color: blue;
+}
+.menu li {
+  list-style-type: none;
+  margin-left: 20px;
+  margin-top: 22px;
+}
+
+.dichvu img {
+  width: 150px;
+  height: 150px;
+}
+.dichvu {
+  display: flex;
+  width: 100%;
+}
+.Diachi {
+  background-color: brown;
+  border-radius: 5px 5px 0px 0px;
+  color: yellow;
+  padding-left: 10px;
+}
+
+.tenvagia {
+  width: 100%;
+  text-align: center;
+  display: flex;
+  background-color: antiquewhite;
+}
+.tenvagia img {
+  width: 300px;
+}
+.tenvagia1 {
+  width: 100%;
+  text-align: center;
+  display: flex;
+  background-color: white;
+}
+.tenvagia1 img {
+  width: 300px;
+}
